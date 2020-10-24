@@ -1,5 +1,5 @@
 # Tiva C
-
+//this is interesting application 
 A ready-made repository for writing, compiling and flashing code for the TI Tiva C.
 
 Tested on Mac OS X 10.6.8, should work on most Macs and Linuxes.
